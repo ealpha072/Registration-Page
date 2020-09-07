@@ -1,6 +1,9 @@
-# login-
-This simple registration sytem has been written in php in the backend.
-It runs on a local XAMMP server.
-The database was created directly from localhost/phpmyadmin and not a query.
-More styling to be added later on.styles.css files to be created for styling.Index.php is the main mage of logged in users.
-When a user logs out, he is redirected to the login page.
+# login
+This is a new user registration and already user log in system.
+Majorly works in the backend.
+Written in php, mysqli(procedural).
+Runs on a local XAMMP server.
+New users are added to the user's database in the user's table.
+Existing users can also login.
+Once logged in, users can view profile or logout.
+Once logged out, page redirects to login page...
