@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Reistration system</title>
+    <title>Registration system</title>
     <link rel="stylesheet" type="text/css" href="styles/login.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
 </head>
