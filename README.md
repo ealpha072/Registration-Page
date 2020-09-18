@@ -1,9 +1,19 @@
 # login
-This is a new user registration and already user log in system.
-Majorly works in the backend.
-Written in php, mysqli(procedural).
-Runs on a local XAMMP server.
-New users are added to the user's database in the user's table.
-Existing users can also login.
-Once logged in, users can view profile or logout.
-Once logged out, page redirects to login page...
+
+This is a registration and login website.New users input details, details are pushed to the database thye can then return and login later.
+It was my first PHP/SQLI project 
+
+Majorly worked on the backend.
+
+Techs utilized:
+  1.PHP -for handling backend logic, registration and login
+  2.SQLI -for database querrying and data storage,
+  3.HTML,CSS
+  
+Things learnt:
+  1.Creating databases and connecting them to php.
+  2.Running websites on local XAMMP server.
+  3.Querrying databases from php/database interactions;
+  4.PHP sessions
+  5.Password encryption and decryption(md5() function )
+  6.SQL injections 
