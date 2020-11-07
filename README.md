@@ -1,7 +1,7 @@
 # login
 
-This is a registration and login website.New users input details, details are pushed to the database thye can then return and login later.
-It was my first PHP/SQLI project 
+This is a registration and login website.New users input details, details are pushed to the database., Users can then return back and login later.
+It was my first PHP/SQLI project i worked in. There were challenges in creating this project especially in deciding which mysqli format to use. 
 Majorly worked on the backend.
 
 ## Techs utilized:
